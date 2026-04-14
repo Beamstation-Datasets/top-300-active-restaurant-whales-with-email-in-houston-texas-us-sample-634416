@@ -1,0 +1,12 @@
+{
+  "export_job_id": "cd3de3e7-d11a-480f-955a-504975483600",
+  "id_short": 634416,
+  "published_at": "2026-04-14T07:43:27Z",
+  "repo_name": "top-300-active-restaurant-whales-with-email-in-houston-texas-us-sample-634416",
+  "sample_asset_name": "beamstation_634416_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/634416/beamstation_634416_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_records": 30,
+  "sample_sha256": "a951c033c9ed0297417b2bd2e97c63755a59d0ac527645768ac34a99cdb78783",
+  "sample_size_bytes": 144648,
+  "total_records": 300
+}
