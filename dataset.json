@@ -6,7 +6,7 @@
   "config_category": "sales",
   "config_description": "--High-Volume, Active targets--\n\nMost popular restaurants in the top range of their local market for proven foot traffic and review volume. \n\nThese are the highest-velocity, actively transacting accounts.\n\n100% of these restaurants have at least one email address. All emails were cleaned and verified in the last 10 days.\n\nBusiness activity validated by an \"Active Heartbeat\" signal in the last 30 days.",
   "config_name": "Top 300 Active Restaurant Whales with Email in Houston, Texas, US",
-  "export_job_id": "cd3de3e7-d11a-480f-955a-504975483600",
+  "export_job_id": "886d7fe6-927c-4e9a-9d9e-da9928046442",
   "github_org": "Beamstation-Datasets",
   "id_short": 634416,
   "location_name": "Houston",
@@ -15,8 +15,8 @@
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/634416/beamstation_634416_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_pct": 10.0,
   "sample_records": 30,
-  "sample_sha256": "a951c033c9ed0297417b2bd2e97c63755a59d0ac527645768ac34a99cdb78783",
-  "sample_size_bytes": 144648,
+  "sample_sha256": "187fc75bed493b10f2fcfacf629d9a700ec5707b21ad08e33895fb3aa1a13e9c",
+  "sample_size_bytes": 136826,
   "total_records": 300,
-  "updated_at": "2026-04-07T17:10:27.279434+00:00"
+  "updated_at": "2026-04-14T22:50:42.458016+00:00"
 }
